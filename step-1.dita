@@ -13,12 +13,14 @@
             </step>
             <step>
                 <cmd>Create an account</cmd>
+                <substeps id="substeps_er1_q3p_jdc">
+                    <substep>
+                        <cmd/>
+                    </substep>
+                </substeps>
             </step>
             <step>
                 <cmd>Create a new Repository</cmd>
-            </step>
-            <step>
-                <cmd/>
             </step>
         </steps>
     </taskbody>
