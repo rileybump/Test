@@ -13,9 +13,15 @@
                 <substeps id="substeps_jlz_lw1_jdc">
                     <substep>
                         <cmd>Create a new file in your Oxygen project</cmd>
+                        <info>
+                            <fig id="fig_p1y_z3p_jdc"/>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select Topic and name it Index</cmd>
+                        <info>
+                            <fig id="fig_hsz_cjp_jdc"/>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Click OK</cmd>
@@ -35,6 +41,9 @@
                     <substep>
                         <cmd>Select Markdown File and name it something applicable to your
                             project</cmd>
+                        <info>
+                            <fig id="fig_olq_gjp_jdc"/>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Click OK</cmd>
