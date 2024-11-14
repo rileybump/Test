@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_v3s_qhp_jdc">
+    <title>Create a GitHub Repository</title>
+    <shortdesc>The first step of the process is creating a GitHub Repository.</shortdesc>
+    <taskbody>
+        <context id="context_ewy_rhp_jdc">
+            <p/>
+        </context>
+        <steps id="steps_fwy_rhp_jdc">
+            <step>
+                <cmd>Go to GitHub.com </cmd>
+            </step>
+            <step>
+                <cmd>Create an account</cmd>
+            </step>
+            <step>
+                <cmd>Create a new Repository</cmd>
+            </step>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

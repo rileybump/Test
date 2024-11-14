@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_v3s_qhp_jdc">
+    <title>Create Markdown Topics and Content in Oxygen</title>
+    <shortdesc>Creating Lightweight DITA topics and Lightweight DITA content in Oxygen.</shortdesc>
+    <taskbody>
+        <context id="context_qcd_b3p_jdc">
+            <p/>
+        </context>
+        <steps id="steps_rcd_b3p_jdc">
+            <step>
+                <cmd>Create an index topic</cmd>
+                <substeps id="substeps_jlz_lw1_jdc">
+                    <substep>
+                        <cmd>Create a new file in your Oxygen project</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Topic and name it Index</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click OK</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Create a Lightweight DITA topic</cmd>
+                <substeps id="substeps_tcd_b3p_jdc">
+                    <substep>
+                        <cmd>Create a new file in your Oxygen project</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Markdown File and name it something applicable to your
+                            project</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click OK</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Create Content within your topics</cmd>
+                <substeps id="substeps_vcd_b3p_jdc">
+                    <substep>
+                        <cmd>Use a markdown cheat sheet to write your content in your Markdown
+                            Files</cmd>
+                    </substep>
+                </substeps>
+                <stepxmp>#Heading will be a heading, *italics* will be written in italics.</stepxmp>
+            </step>
+            <step>
+                <cmd>Repeat Steps 2 &amp; 3 as many times as necessary to create all of your
+                    content</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link>
+            <desc>
+                <p><xref href="https://www.markdownguide.org/cheat-sheet/" format="html"
+                        scope="external">Markdown Cheat Sheet | Markdown Guide</xref></p>
+            </desc>
+        </link>
+    </related-links>
+</task>
