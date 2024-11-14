@@ -21,6 +21,11 @@
             </step>
             <step>
                 <cmd>Create a new Repository</cmd>
+                <substeps id="substeps_msd_jjp_jdc">
+                    <substep>
+                        <cmd/>
+                    </substep>
+                </substeps>
             </step>
         </steps>
     </taskbody>
