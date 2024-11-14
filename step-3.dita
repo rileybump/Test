@@ -20,6 +20,10 @@
                     <substep>
                         <cmd>Click OK</cmd>
                     </substep>
+                    <substep>
+                        <cmd>Change the title of the Index page to whatever you want the name of
+                            your deliverable to be.</cmd>
+                    </substep>
                 </substeps>
             </step>
             <step>
