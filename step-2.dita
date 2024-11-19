@@ -2,7 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_v3s_qhp_jdc">
     <title>Import Your GitHub Repository to Oxygen</title>
-    <shortdesc/>
+    <shortdesc>In this step, you will link your GitHub repository to Oxygen Content
+        fusion.</shortdesc>
     <taskbody>
         <context id="context_jyl_yhp_jdc"/>
         <steps id="steps_kyl_yhp_jdc">
@@ -68,9 +69,6 @@
                             selected for Actions</cmd>
                     </substep>
                 </substeps>
-            </step>
-            <step>
-                <cmd/>
             </step>
         </steps>
     </taskbody>
