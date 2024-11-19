@@ -4,9 +4,7 @@
     <title>Import Your GitHub Repository to Oxygen</title>
     <shortdesc/>
     <taskbody>
-        <context id="context_jyl_yhp_jdc">
-            <p/>
-        </context>
+        <context id="context_jyl_yhp_jdc"/>
         <steps id="steps_kyl_yhp_jdc">
             <step>
                 <cmd>Create a Project in Oxygen Content Fusion</cmd>
@@ -33,7 +31,7 @@
                 <cmd>Enter your GitHub username</cmd>
             </step>
             <step>
-                <cmd>Create your GitHub access token</cmd>
+                <cmd>Find your GitHub access token</cmd>
                 <substeps id="substeps_f43_n2p_jdc">
                     <substep>
                         <cmd>In GitHub, click on your profile in the top right corner</cmd>
@@ -46,6 +44,20 @@
                     </substep>
                     <substep>
                         <cmd>Select Personal Access Token, then Fine-grained tokens</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Generate a new token </cmd>
+                <substeps id="substeps_oz3_43p_jdc">
+                    <substep>
+                        <cmd>Name your token</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select how long you want this token to remain active</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>In the Repository Access</cmd>
                     </substep>
                 </substeps>
             </step>
