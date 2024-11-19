@@ -57,9 +57,20 @@
                         <cmd>Select how long you want this token to remain active</cmd>
                     </substep>
                     <substep>
-                        <cmd>In the Repository Access</cmd>
+                        <cmd>In the Repository Access section choose for the token to work for Only
+                            Select Repositories</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the repository to link</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>In Repository Permissions, be sure that read and write permissions are
+                            selected for Actions</cmd>
                     </substep>
                 </substeps>
+            </step>
+            <step>
+                <cmd/>
             </step>
         </steps>
     </taskbody>
