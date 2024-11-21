@@ -8,6 +8,9 @@
         <context id="context_jyl_yhp_jdc"/>
         <steps id="steps_kyl_yhp_jdc">
             <step>
+                <cmd/>
+            </step>
+            <step>
                 <cmd>Create a Project in Oxygen Content Fusion</cmd>
                 <substeps id="substeps_swx_31p_jdc">
                     <substep>
@@ -48,7 +51,7 @@
                     </substep>
                 </substeps>
             </step>
-            <step>
+        <step>
                 <cmd>Generate a new token </cmd>
                 <substeps id="substeps_oz3_43p_jdc">
                     <substep>

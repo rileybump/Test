@@ -23,7 +23,13 @@
                 <cmd>Create a new Repository</cmd>
                 <substeps id="substeps_msd_jjp_jdc">
                     <substep>
-                        <cmd/>
+                        <cmd>Select "New" in the upper left corner of the website</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Under "Repository Name," enter a name relevant to your project.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "Create repository"</cmd>
                     </substep>
                 </substeps>
             </step>
