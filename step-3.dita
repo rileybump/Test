@@ -2,17 +2,25 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_v3s_qhp_jdc">
     <title>Create Markdown Topics and Content in Oxygen</title>
-    <shortdesc>Creating Lightweight DITA topics and Lightweight DITA content in Oxygen.</shortdesc>
+    <shortdesc>Creating and organizing Lightweight DITA topics and Lightweight DITA content in
+        Oxygen.</shortdesc>
     <taskbody>
         <context id="context_qcd_b3p_jdc">
             <p/>
         </context>
         <steps id="steps_rcd_b3p_jdc">
             <step>
+                <cmd>Select the "Edit in workspace" button next to the project name in the upper
+                    left</cmd>
+            </step>
+            <step>
                 <cmd>Create an index topic</cmd>
                 <substeps id="substeps_jlz_lw1_jdc">
                     <substep>
-                        <cmd>Create a new file in your Oxygen project</cmd>
+                        <cmd>Click the three dots next to Files on the left side of the page</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select "New file"</cmd>
                         <info>
                             <fig id="fig_p1y_z3p_jdc"/>
                         </info>
@@ -36,7 +44,10 @@
                 <cmd>Create a Lightweight DITA topic</cmd>
                 <substeps id="substeps_tcd_b3p_jdc">
                     <substep>
-                        <cmd>Create a new file in your Oxygen project</cmd>
+                        <cmd>Click the three dots next to Files on the left side of the page</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select "New file"</cmd>
                     </substep>
                     <substep>
                         <cmd>Select Markdown File and name it something applicable to your
@@ -61,8 +72,49 @@
                 <stepxmp>#Heading will be a heading, *italics* will be written in italics.</stepxmp>
             </step>
             <step>
-                <cmd>Repeat Steps 2 &amp; 3 as many times as necessary to create all of your
-                    content</cmd>
+                <cmd>Commit changes as you go so you don't lose any progress</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Select Changes on the left side of the screen</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the blue Commit... button</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Write a relevant Commit message</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the blue Commit button and your commit will be saved</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Repeat Steps 3-5 as many times as necessary to create all of your content</cmd>
+            </step>
+            <step>
+                <cmd>Organize your content into a Dita Map</cmd>
+                <substeps id="substeps_qvp_kg4_ldc">
+                    <substep>
+                        <cmd>Select the three dots next to Files in the upper left corner</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select New File</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Map and name it ditamap</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click OK</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click and drag your files into the Dita Map, starting with Index and
+                            then your Lightweight DITA files in whatever order you want them to
+                            be</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Commit your changes one last time and your Oxygen Dita Map is complete.</cmd>
             </step>
         </steps>
     </taskbody>

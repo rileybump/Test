@@ -2,14 +2,43 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_v3s_qhp_jdc">
     <title>Create Publications and Deliverables in Oxygen</title>
-    <shortdesc></shortdesc>
+    <shortdesc>In this step, you create Publications and Deliverables necessary to connect the
+        Oxygen files to an external connector, in this case, Netlify.</shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>In the upper left, click on the title of your project to leave your Personal
+                    workspace.</cmd>
+            </step>
+            <step>
+                <cmd>Create a new Publication for your project</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click Publications on the left side of the page</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the blue New Publications button on the upper right side of the
+                            page</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Name your publication something relevant to your project</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select DITA Map Path, then selection ditamap.ditamap</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Ignore the DITAVAL path section </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the blue "Create" button at the bottom of the window</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd/>
             </step>
         </steps>
     </taskbody>

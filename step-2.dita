@@ -3,12 +3,19 @@
 <task id="task_v3s_qhp_jdc">
     <title>Import Your GitHub Repository to Oxygen</title>
     <shortdesc>In this step, you will link your GitHub repository to Oxygen Content
-        fusion.</shortdesc>
+        Fusion.</shortdesc>
     <taskbody>
         <context id="context_jyl_yhp_jdc"/>
         <steps id="steps_kyl_yhp_jdc">
             <step>
-                <cmd/>
+                <cmd>Go to <xref href="https://carnage.clahs.vt.edu/" format="html" scope="external"
+                        >Oxygen Content Fusion</xref></cmd>
+                <substeps id="substeps_axf_yyn_ldc">
+                    <substep>
+                        <cmd>Select "Sign Up" and enter your information, or log in if you already
+                            have an account.</cmd>
+                    </substep>
+                </substeps>
             </step>
             <step>
                 <cmd>Create a Project in Oxygen Content Fusion</cmd>
@@ -20,6 +27,9 @@
                         <cmd>Create a new project</cmd>
                     </substep>
                 </substeps>
+            </step>
+            <step>
+                <cmd>Enter a name relevant to your project</cmd>
             </step>
             <step>
                 <cmd>Copy the URL of your GitHub repository </cmd>
@@ -44,7 +54,8 @@
                         <cmd>Select Settings</cmd>
                     </substep>
                     <substep>
-                        <cmd>In Settings, select Developer Settings</cmd>
+                        <cmd>In Settings, select Developer Settings at the bottom of the menu on the
+                            left</cmd>
                     </substep>
                     <substep>
                         <cmd>Select Personal Access Token, then Fine-grained tokens</cmd>
@@ -55,7 +66,10 @@
                 <cmd>Generate a new token </cmd>
                 <substeps id="substeps_oz3_43p_jdc">
                     <substep>
-                        <cmd>Name your token</cmd>
+                        <cmd>Select "Generate new token" in upper right</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Name your token something relevant to your project</cmd>
                     </substep>
                     <substep>
                         <cmd>Select how long you want this token to remain active</cmd>
@@ -68,10 +82,30 @@
                         <cmd>Select the repository to link</cmd>
                     </substep>
                     <substep>
-                        <cmd>In Repository Permissions, be sure that read and write permissions are
-                            selected for Actions</cmd>
+                        <cmd>Select Repository Permissions</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Read and Write Permissions for Contents</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Scroll to the bottom and select "Generate token"</cmd>
                     </substep>
                 </substeps>
+            </step>
+            <step>
+                <cmd>Use your Github Access Token to link to Oxygen</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Copy the Personal Access Token from Github</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Return to your Oxygen project and paste your Personal Access Token into
+                            the bar labeled Access Token</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Select Create Project at the bottom of the page</cmd>
             </step>
         </steps>
     </taskbody>

@@ -33,6 +33,29 @@
                     </substep>
                 </substeps>
             </step>
+            <step>
+                <cmd>Create a page in your repository</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Select the highlighted link that says "creating a new file" under Quick
+                            Setup</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Name it something relevant to your project</cmd>
+                        <info>The name here is not incredibly important, it is mostly a placeholder
+                            to create the repository</info>
+                    </substep>
+                    <substep>
+                        <cmd>Select "Commit Changes..." in the upper right</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Write a relevant commit message</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select "Commit changes"</cmd>
+                    </substep>
+                </substeps>
+            </step>
         </steps>
     </taskbody>
 </task>
