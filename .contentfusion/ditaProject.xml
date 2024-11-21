@@ -4,4 +4,12 @@
         <input href="../ditamap.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-lightweight_DITA-1732211256308" name="lightweight DITA">
+        <context idref="GpaFeXlIQFgohiz"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Astatine" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
