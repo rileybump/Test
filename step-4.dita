@@ -10,8 +10,8 @@
         </context>
         <steps>
             <step>
-                <cmd>In the upper left, click on the title of your project to leave your Personal
-                    workspace.</cmd>
+                <cmd>In the upper left of your Oxygen project, click on the title of your project to
+                    leave your Personal workspace.</cmd>
             </step>
             <step>
                 <cmd>Create a new Publication for your project</cmd>
@@ -38,7 +38,88 @@
                 </substeps>
             </step>
             <step>
-                <cmd/>
+                <cmd>Create a new Connector for your project</cmd>
+                <substeps id="substeps_usz_hr4_ldc">
+                    <substep>
+                        <cmd>On the left side of the page, select the word "Connectors"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the blue button that says "NEW CONNECTOR"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select Netlify from the drop-down menu</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter a relevant name for your project, and copy and paste your Netlify
+                            site ID.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>For the Access Token, return to Netlify.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Type Access Token in the search bar, and then select Personal access
+                            tokens when it appears.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select "New access token" from the section labeled "Personal access
+                            tokens"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Create a label for the token that is relevant to your project as well
+                            as the amount of time the token will be valid for</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select "Generate token"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Copy the token to your clipboard and paste it in the Personal Access
+                            Token section on Oxygen.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click Submit </cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Create a new Deliverable in Oxygen</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Select the Deliverables icon on the left side of the page</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click the blue "NEW DELIVERABLE" button on the upper right</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Give it a name and description relevant to your project</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select your publication from the dropdown menu under Publication</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If you want, you can choose a template for your color scheme under
+                            "Select a Template:"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Check the box for "Upload output using a publishing connector", then
+                            choose your Connector from the dropdown menu</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select BUILD next to your new Deliverable, and it will build your
+                            website using Netlify.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Open your new website in Netlify</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Return to Netlify and go back to your website overview.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Below the randomly generated website name is your url for your website.
+                            If you click on it, it takes you to your page!</cmd>
+                    </substep>
+                </substeps>
             </step>
         </steps>
     </taskbody>

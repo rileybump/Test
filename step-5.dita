@@ -1,15 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_v3s_qhp_jdc">
-    <title>Add Connector</title>
-    <shortdesc></shortdesc>
+    <title>Set Up Connector</title>
+    <shortdesc> This is how you add the connector, in our case, Netlify, to use in your Publications
+        and Deliverables to finally create your website.</shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Download a blank Github HTML repository to use in Netlify</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Go to this link to find a blank repository: <xref
+                                href="https://github.com/VT-Evia/partystarter" format="html"
+                                scope="external">VT-Evia/partystarter: This is a super basic HTML
+                                repository to get the party started with Netlify.</xref></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Once in this repository, click the green "Code" button.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click Download ZIP</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Once it is downloaded, open the file and extract the files.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Go to <xref href="https://www.netlify.com/" format="html" scope="external"
+                        >Scale &amp; Ship Faster with a Composable Web Architecture |
+                    Netlify</xref>and Sign Up or Log in</cmd>
+            </step>
+            <step>
+                <cmd>Create a Netlify website using the blank HTML file from step 1</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click the light blue "Add new site" button</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>At this page, drag your downloaded HTML file into the Netlify page.
+                        </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>This will create a randomly named blank website.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Locate your site ID for your Netlify site</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>On the left side of the screen select "Site configuration"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Under the Site information window, you see a row labeled Site ID.  This
+                            is very important for later.</cmd>
+                    </substep>
+                </substeps>
             </step>
         </steps>
     </taskbody>
