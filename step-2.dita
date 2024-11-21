@@ -14,6 +14,11 @@
                     <substep>
                         <cmd>Select "Sign Up" and enter your information, or log in if you already
                             have an account.</cmd>
+                        <info>
+                            <fig id="fig_sk2_x54_ldc">
+                                <image href="pic4.PNG" id="image_wz4_x54_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
@@ -21,44 +26,99 @@
                 <cmd>Create a Project in Oxygen Content Fusion</cmd>
                 <substeps id="substeps_swx_31p_jdc">
                     <substep>
-                        <cmd>Click on the projects tab at the top of your screen</cmd>
+                        <cmd>Click on the Projects tab at the top left of your screen</cmd>
+                        <info>
+                            <fig id="fig_sq1_w54_ldc">
+                                <image href="pic5.PNG" id="image_azm_y54_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
-                        <cmd>Create a new project</cmd>
+                        <cmd>Select "New project"</cmd>
+                        <info>
+                            <fig id="fig_nbz_z54_ldc">
+                                <image href="pic6.PNG" id="image_mbr_1v4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
             <step>
                 <cmd>Enter a name relevant to your project</cmd>
+                <info>
+                    <fig id="fig_ifq_cv4_ldc">
+                        <image href="pic7.PNG" id="image_jxh_dv4_ldc"/>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Copy the URL of your GitHub repository </cmd>
+                <info>
+                    <fig id="fig_j4s_dv4_ldc">
+                        <image href="pic8.PNG" id="image_v1l_2v4_ldc"/>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Select the branch to link</cmd>
+                <info>
+                    <fig id="fig_ry4_fv4_ldc">
+                        <image href="pic9.PNG" id="image_z3g_gv4_ldc"/>
+                    </fig>
+                </info>
                 <info>The branch should be called "main" by default. </info>
             </step>
             <step>
                 <cmd>Select whether you want the project to be public or private</cmd>
+                <info>
+                    <fig id="fig_qf5_gv4_ldc">
+                        <image href="pic10.PNG" id="image_bg4_hv4_ldc"/>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Enter your GitHub username</cmd>
+                <info>
+                    <fig id="fig_ot1_3v4_ldc">
+                        <image href="pic11.PNG" id="image_trq_3v4_ldc"/>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Find your GitHub access token</cmd>
                 <substeps id="substeps_f43_n2p_jdc">
                     <substep>
                         <cmd>In GitHub, click on your profile in the top right corner</cmd>
+                        <info>
+                            <fig id="fig_i24_jv4_ldc">
+                                <image href="pic12.PNG" id="image_mjc_kv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select Settings</cmd>
+                        <info>
+                            <fig id="fig_oxn_kv4_ldc">
+                                <image href="pic13.PNG" id="image_zxd_lv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>In Settings, select Developer Settings at the bottom of the menu on the
                             left</cmd>
+                        <info>
+                            <fig id="fig_h1c_mv4_ldc">
+                                <image href="pic14.PNG" id="image_cxq_mv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select Personal Access Token, then Fine-grained tokens</cmd>
+                        <info>
+                            <fig id="fig_jfk_nv4_ldc">
+                                <image href="pic15.PNG" id="image_uwz_nv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
@@ -67,16 +127,36 @@
                 <substeps id="substeps_oz3_43p_jdc">
                     <substep>
                         <cmd>Select "Generate new token" in upper right</cmd>
+                        <info>
+                            <fig id="fig_mfg_pv4_ldc">
+                                <image href="pic16.PNG" id="image_uwt_pv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Name your token something relevant to your project</cmd>
+                        <info>
+                            <fig id="fig_dsg_qv4_ldc">
+                                <image href="pic18.PNG" id="image_e2d_sv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select how long you want this token to remain active</cmd>
+                        <info>
+                            <fig id="fig_f3k_sv4_ldc">
+                                <image href="pic19.PNG" id="image_psx_sv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>In the Repository Access section choose for the token to work for Only
                             Select Repositories</cmd>
+                        <info>
+                            <fig id="fig_pr3_tv4_ldc">
+                                <image href="pic20.PNG" id="image_s5z_tv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select the repository to link</cmd>
@@ -86,9 +166,19 @@
                     </substep>
                     <substep>
                         <cmd>Select Read and Write Permissions for Contents</cmd>
+                        <info>
+                            <fig id="fig_cf1_vv4_ldc">
+                                <image href="pic22.PNG" id="image_wb4_wv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Scroll to the bottom and select "Generate token"</cmd>
+                        <info>
+                            <fig id="fig_il1_xv4_ldc">
+                                <image href="pic23.PNG" id="image_uhr_xv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
@@ -97,15 +187,30 @@
                 <substeps>
                     <substep>
                         <cmd>Copy the Personal Access Token from Github</cmd>
+                        <info>
+                            <fig id="fig_bbn_yv4_ldc">
+                                <image href="pic24.PNG" id="image_wkd_zv4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Return to your Oxygen project and paste your Personal Access Token into
                             the bar labeled Access Token</cmd>
+                        <info>
+                            <fig id="fig_ycf_1w4_ldc">
+                                <image href="pic25.PNG" id="image_j55_1w4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
             <step>
                 <cmd>Select Create Project at the bottom of the page</cmd>
+                <info>
+                    <fig id="fig_i53_bw4_ldc">
+                        <image href="pic26.PNG" id="image_edy_bw4_ldc"/>
+                    </fig>
+                </info>
             </step>
         </steps>
     </taskbody>
