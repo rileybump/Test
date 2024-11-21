@@ -11,7 +11,12 @@
         <steps id="steps_rcd_b3p_jdc">
             <step>
                 <cmd>Select the "Edit in workspace" button next to the project name in the upper
-                    left</cmd>
+                    left of Oxygen in your project</cmd>
+                <info>
+                    <fig id="fig_cnd_fw4_ldc">
+                        <image href="pic27.PNG" id="image_jzf_gw4_ldc"/>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Create an index topic</cmd>
@@ -22,13 +27,17 @@
                     <substep>
                         <cmd>Select "New file"</cmd>
                         <info>
-                            <fig id="fig_p1y_z3p_jdc"/>
+                            <fig id="fig_p1y_z3p_jdc">
+                                <image href="pic28.PNG" id="image_tdz_kw4_ldc"/>
+                            </fig>
                         </info>
                     </substep>
                     <substep>
                         <cmd>Select Topic and name it Index</cmd>
                         <info>
-                            <fig id="fig_hsz_cjp_jdc"/>
+                            <fig id="fig_hsz_cjp_jdc">
+                                <image href="pic29.PNG" id="image_f3v_lw4_ldc"/>
+                            </fig>
                         </info>
                     </substep>
                     <substep>
@@ -37,6 +46,11 @@
                     <substep>
                         <cmd>Change the title of the Index page to whatever you want the name of
                             your deliverable to be.</cmd>
+                        <info>
+                            <fig id="fig_od4_mw4_ldc">
+                                <image href="pic30.PNG" id="image_y22_nw4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
@@ -48,12 +62,19 @@
                     </substep>
                     <substep>
                         <cmd>Select "New file"</cmd>
+                        <info>
+                            <fig id="fig_h5x_nw4_ldc">
+                                <image href="pic31.PNG" id="image_utk_4w4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select Markdown File and name it something applicable to your
                             project</cmd>
                         <info>
-                            <fig id="fig_olq_gjp_jdc"/>
+                            <fig id="fig_olq_gjp_jdc">
+                                <image href="pic32.PNG" id="image_awh_pw4_ldc"/>
+                            </fig>
                         </info>
                     </substep>
                     <substep>
@@ -69,19 +90,32 @@
                             Files</cmd>
                     </substep>
                 </substeps>
-                <stepxmp>#Heading will be a heading, *italics* will be written in italics.</stepxmp>
+                <stepxmp><fig id="fig_djt_qw4_ldc">
+                        <image href="pic33.PNG" id="image_lr3_rw4_ldc"/>
+                    </fig>#Heading will be a heading, *italics* will be written in
+                    italics.</stepxmp>
             </step>
             <step>
                 <cmd>Commit changes as you go so you don't lose any progress</cmd>
                 <substeps>
                     <substep>
                         <cmd>Select Changes on the left side of the screen</cmd>
+                        <info>
+                            <fig id="fig_rkc_sw4_ldc">
+                                <image href="pic34.PNG" id="image_swz_sw4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select the blue Commit... button</cmd>
                     </substep>
                     <substep>
                         <cmd>Write a relevant Commit message</cmd>
+                        <info>
+                            <fig id="fig_vgp_tw4_ldc">
+                                <image href="pic36.PNG" id="image_a1d_vw4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select the blue Commit button and your commit will be saved</cmd>
@@ -96,12 +130,24 @@
                 <substeps id="substeps_qvp_kg4_ldc">
                     <substep>
                         <cmd>Select the three dots next to Files in the upper left corner</cmd>
+                        <info>
+                            <fig id="fig_wk5_vw4_ldc">
+                                <image href="step%203%20going%20back%20pic%201.PNG"
+                                    id="image_l13_zw4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select New File</cmd>
                     </substep>
                     <substep>
                         <cmd>Select Map and name it ditamap</cmd>
+                        <info>
+                            <fig id="fig_kh5_zw4_ldc">
+                                <image href="step%203%20going%20back%20pic%202.PNG"
+                                    id="image_k1m_1x4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Click OK</cmd>
@@ -110,6 +156,12 @@
                         <cmd>Click and drag your files into the Dita Map, starting with Index and
                             then your Lightweight DITA files in whatever order you want them to
                             be</cmd>
+                        <info>
+                            <fig id="fig_rm2_bx4_ldc">
+                                <image href="step%203%20going%20back%20pic%203.PNG"
+                                    id="image_bfw_bx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
