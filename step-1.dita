@@ -19,12 +19,27 @@
                 <substeps id="substeps_msd_jjp_jdc">
                     <substep>
                         <cmd>Select "New" in the upper left corner of the website</cmd>
+                        <info>
+                            <fig id="fig_wt5_zt4_ldc">
+                                <image href="pic1.PNG" id="image_q4v_154_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Under "Repository Name," enter a name relevant to your project.</cmd>
+                        <info>
+                            <fig id="fig_ymj_254_ldc">
+                                <image href="pic2.PNG" id="image_ynf_f54_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Click "Create repository"</cmd>
+                        <info>
+                            <fig id="fig_zhx_f54_ldc">
+                                <image href="pic3.PNG" id="image_w25_g54_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
@@ -34,20 +49,41 @@
                     <substep>
                         <cmd>Select the highlighted link that says "creating a new file" under Quick
                             Setup</cmd>
+                        <info>
+                            <fig id="fig_lzj_h54_ldc">
+                                <image href="github%20new%20repo%20step%201.PNG"
+                                    id="image_z41_454_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Name it something relevant to your project</cmd>
+                        <info>
+                            <fig id="fig_p5w_454_ldc">
+                                <image href="github%20new%20repo%20step%202.PNG"
+                                    id="image_vjq_p54_ldc"/>
+                            </fig>
+                        </info>
                         <info>The name here is not incredibly important, it is mostly a placeholder
                             to create the repository</info>
                     </substep>
                     <substep>
                         <cmd>Select "Commit Changes..." in the upper right</cmd>
+                        <info>
+                            <fig id="fig_d2q_q54_ldc"/>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Write a relevant commit message</cmd>
                     </substep>
                     <substep>
                         <cmd>Select "Commit changes"</cmd>
+                        <info>
+                            <fig id="fig_dxb_s54_ldc">
+                                <image href="github%20new%20repo%20step%203.PNG"
+                                    id="image_itp_s54_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
