@@ -18,16 +18,36 @@
                 <substeps>
                     <substep>
                         <cmd>Click Publications on the left side of the page</cmd>
+                        <info>
+                            <fig id="fig_at1_gx4_ldc">
+                                <image href="pic38.PNG" id="image_lqm_gx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select the blue New Publications button on the upper right side of the
                             page</cmd>
+                        <info>
+                            <fig id="fig_igv_gx4_ldc">
+                                <image href="pic39.PNG" id="image_iwk_hx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Name your publication something relevant to your project</cmd>
+                        <info>
+                            <fig id="fig_upz_3x4_ldc">
+                                <image href="pic40.PNG" id="image_ydk_jx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select DITA Map Path, then selection ditamap.ditamap</cmd>
+                        <info>
+                            <fig id="fig_gnw_hx4_ldc">
+                                <image href="pic41.PNG" id="image_a3j_kx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Ignore the DITAVAL path section </cmd>
@@ -42,9 +62,19 @@
                 <substeps id="substeps_usz_hr4_ldc">
                     <substep>
                         <cmd>On the left side of the page, select the word "Connectors"</cmd>
+                        <info>
+                            <fig id="fig_mkh_sx4_ldc">
+                                <image href="pic46.PNG" id="image_bg1_tx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select the blue button that says "NEW CONNECTOR"</cmd>
+                        <info>
+                            <fig id="fig_wzl_tx4_ldc">
+                                <image href="pic47.PNG" id="image_adc_5x4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select Netlify from the drop-down menu</cmd>
@@ -52,6 +82,11 @@
                     <substep>
                         <cmd>Enter a relevant name for your project, and copy and paste your Netlify
                             site ID.</cmd>
+                        <info>
+                            <fig id="fig_agr_5x4_ldc">
+                                <image href="pic48.PNG" id="image_kkf_vx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>For the Access Token, return to Netlify.</cmd>
@@ -59,14 +94,28 @@
                     <substep>
                         <cmd>Type Access Token in the search bar, and then select Personal access
                             tokens when it appears.</cmd>
+                        <info>
+                            <fig id="fig_alt_vx4_ldc">
+                                <image href="pic49.PNG" id="image_nxm_wx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select "New access token" from the section labeled "Personal access
                             tokens"</cmd>
+                        <info>
+                            <fig id="fig_qt3_yx4_ldc"/>
+                        </info>
                     </substep>
                     <substep>
-                        <cmd>Create a label for the token that is relevant to your project as well
-                            as the amount of time the token will be valid for</cmd>
+                        <cmd>Create a label for the to<image href="pic50.PNG" id="image_srq_yx4_ldc"
+                            />ken that is relevant to your project as well as the amount of time the
+                            token will be valid for</cmd>
+                        <info>
+                            <fig id="fig_tyf_xx4_ldc">
+                                <image href="pic51.PNG" id="image_fs5_zx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select "Generate token"</cmd>
@@ -74,6 +123,11 @@
                     <substep>
                         <cmd>Copy the token to your clipboard and paste it in the Personal Access
                             Token section on Oxygen.</cmd>
+                        <info>
+                            <fig id="fig_s2m_1y4_ldc">
+                                <image href="pic52.PNG" id="image_wt1_by4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Click Submit </cmd>
@@ -85,15 +139,30 @@
                 <substeps>
                     <substep>
                         <cmd>Select the Deliverables icon on the left side of the page</cmd>
+                        <info>
+                            <fig id="fig_f5w_by4_ldc">
+                                <image href="pic53.PNG" id="image_hvj_cy4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Click the blue "NEW DELIVERABLE" button on the upper right</cmd>
                     </substep>
                     <substep>
                         <cmd>Give it a name and description relevant to your project</cmd>
+                        <info>
+                            <fig id="fig_mjx_dy4_ldc">
+                                <image href="pic54.PNG" id="image_scx_fy4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select your publication from the dropdown menu under Publication</cmd>
+                        <info>
+                            <fig id="fig_fgc_fy4_ldc">
+                                <image href="pic55.PNG" id="image_mrj_fy4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>If you want, you can choose a template for your color scheme under
@@ -102,10 +171,20 @@
                     <substep>
                         <cmd>Check the box for "Upload output using a publishing connector", then
                             choose your Connector from the dropdown menu</cmd>
+                        <info>
+                            <fig id="fig_eys_gy4_ldc">
+                                <image href="pic56.PNG" id="image_mtg_hy4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select BUILD next to your new Deliverable, and it will build your
                             website using Netlify.</cmd>
+                        <info>
+                            <fig id="fig_tq5_hy4_ldc">
+                                <image href="pic57.PNG" id="image_kpj_3y4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
@@ -114,6 +193,11 @@
                 <substeps>
                     <substep>
                         <cmd>Return to Netlify and go back to your website overview.</cmd>
+                        <info>
+                            <fig id="fig_nbz_3y4_ldc">
+                                <image href="pic58.PNG" id="image_h4r_jy4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Below the randomly generated website name is your url for your website.

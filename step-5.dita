@@ -20,6 +20,11 @@
                     </substep>
                     <substep>
                         <cmd>Once in this repository, click the green "Code" button.</cmd>
+                        <info>
+                            <fig id="fig_ajk_lx4_ldc">
+                                <image href="pic42.PNG" id="image_iyd_mx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Click Download ZIP</cmd>
@@ -39,10 +44,19 @@
                 <substeps>
                     <substep>
                         <cmd>Click the light blue "Add new site" button</cmd>
+                        <info>
+                            <fig id="fig_tdx_nx4_ldc">
+                                <image href="pic43.PNG" id="image_kwk_4x4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
-                        <cmd>At this page, drag your downloaded HTML file into the Netlify page.
-                        </cmd>
+                        <cmd>At this page, drag your downloaded HTML file into the Netlify page. </cmd>
+                        <info>
+                            <fig id="fig_ry3_px4_ldc">
+                                <image href="pic44.PNG" id="image_cnx_px4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>This will create a randomly named blank website.</cmd>
@@ -54,6 +68,11 @@
                 <substeps>
                     <substep>
                         <cmd>On the left side of the screen select "Site configuration"</cmd>
+                        <info>
+                            <fig id="fig_atl_qx4_ldc">
+                                <image href="pic45.PNG" id="image_vxz_qx4_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Under the Site information window, you see a row labeled Site ID.  This
